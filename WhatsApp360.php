@@ -57,7 +57,6 @@ class WhatsApp360
     public function __construct()
     {
         $this->headers['D360-API-KEY'] = $_ENV['API_KEY_360DEGREE'];
-        die( $_ENV['API_KEY_360DEGREE']);
     }
 
     /**

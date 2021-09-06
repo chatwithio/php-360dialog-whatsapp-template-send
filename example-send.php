@@ -12,8 +12,8 @@ $o = new WhatsApp360();
 print_r(
     $o->sendWhatsApp(
         "34622814642",
-        [],
-        'test_template_sandbox',
+        ["2"],
+        'sample_shipping_confirmation',
         'en_US',
         'f6baa15e_fb52_4d4f_a5a0_cde307dc3a85'
     )
