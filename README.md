@@ -2,8 +2,8 @@
 
 ## Introduction
 
-The purpose of this class is not to interact with the entire 360degree api. Instead it is designed as a start-pack that
-will quickly allow you to send template based message (with placeholders) to your users.
+The purpose of this class is not to interact with the entire 360degree api. Instead, it is designed as a start-pack that
+will quickly allow you to send template based message (with placeholders) to your users. The only supported template type is text in the body
 
 Please note that you cannot **initiate** a freetext message with WhatsappAPI. Instead, you must use a pre-approved
 template.
@@ -12,7 +12,7 @@ template.
 
 You can get one from here:
 
-https://hub.360dialog.com/lp/whatsapp/I9RpMZPA
+https://tochat.be
 
 This will then have to be added to the .env file, there is a .env.example file
 
