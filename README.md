@@ -1,14 +1,14 @@
-# Send text based template messages via 360 degrees
+# Send WhatsApp text based template messages with 360dialog WhatsApp API
 
 ## Introduction
 
-The purpose of this class is not to interact with the entire 360degree api. Instead, it is designed as a start-pack that
+The purpose of this class is not to interact with the entire 360Dialog api. Instead, it is designed as a start-pack that
 will quickly allow you to send template based message (with placeholders) to your users. The only supported template type is text in the body.
 
 Please note that you cannot **initiate** a freetext message with WhatsappAPI. Instead, you must use a pre-approved
 template.
 
-## Getting a 360degree api key
+## Getting a 360Dialog api key
 
 You can get one from here:
 
